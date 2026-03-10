@@ -24,7 +24,9 @@ Here's our schedule:
 | 2026-10-29 |       |           |
 | 2026-11-26 |       |           |
 
-## Contributing
+## Presenting
+
+We are still gathering presentations for this year, so please create an issue or send an e-mail to abel.siqueira@esciencecenter.nl if you want to present about some topic. If you can relate it to an existing project, that is better.
 
 For inspiration, some of the topics that we care about, copy-pasted from our [competence nomenclature](https://nlesc.sharepoint.com/sites/home/SitePages/Nomenclature-of-the-technological-competences.aspx?csf=1&web=1&e=VYJqwB&CID=894516f3-e16b-41f5-92f2-d0ee54954c01), are below:
 
