@@ -26,11 +26,21 @@ Here's our schedule:
 
 ## Presenting
 
-We are still gathering presentations for this year, so please create an issue or send an e-mail to abel.siqueira@esciencecenter.nl if you want to present about some topic. If you can relate it to an existing project, that is better.
+We will try to have either one or two RSE presentations per session, and some discussion sessions.
 
-For inspiration, some of the topics that we care about, copy-pasted from our [competence nomenclature](https://nlesc.sharepoint.com/sites/home/SitePages/Nomenclature-of-the-technological-competences.aspx?csf=1&web=1&e=VYJqwB&CID=894516f3-e16b-41f5-92f2-d0ee54954c01), are below:
+If you want to present or suggest a discussion topic, please create an issue on <https://github.com/nlesc-sigs/SQS-sig> or send an e-mail to the SIG leads. If you can relate it to an existing project, that is better.
 
-- Code Review: Peer review of code that helps developers ensure or improve the code quality 
+Some examples of topics include, but are not limited to:
+
+- (Categories of) tools that improved the quality in your project. E.g., linters in general, pre-commit the tool, etc.;
+- (Categories of) practices that improved the quality in your project. E.g., documentation in general, diátaxis the tool, etc.;
+- Challenges in achieving quality in your project.
+
+We are still gathering presentations for this year, so please create an issue or send an e-mail to <abel.siqueira@esciencecenter.nl> if you want to present about some topic. If you can relate it to an existing project, that is better.
+
+For inspiration, here is our list of competences, copy-pasted from our [nomenclature](https://nlesc.sharepoint.com/sites/home/SitePages/Nomenclature-of-the-technological-competences.aspx?csf=1&web=1&e=VYJqwB&CID=894516f3-e16b-41f5-92f2-d0ee54954c01), are below:
+
+- Code Review: Peer review of code that helps developers ensure or improve the code quality
 - Packaging: Bundling software code and its dependencies into a single file or directory, making it easier to distribute and install
 - Provisioning: Setting up and managing software application infrastructure using code, rather than manual configurations
 - Rapid prototyping: Dynamic approach that focuses on creating quick and functional models of new software applications
