@@ -16,7 +16,7 @@ Here's our schedule:
 | Date       | Topic | Presenter | Recording |
 | ----------:|:----- |:--------- | -- |
 | 2026-03-19 | Software Quality Metrics | Abel Soares Siqueira | [link][rec1] |
-| 2026-04-16 |       |           |  |
+| 2026-04-16 | Weblate for multi-lingual software | Carsten Schnober |  |
 | 2026-05-14 |       |           |  |
 | 2026-06-11 |       |           |  |
 | 2026-09-03 |       |           |  |
