@@ -16,7 +16,8 @@ Here's our schedule:
 | Date       | Topic | Presenter | Recording |
 | ----------:|:----- |:--------- | -- |
 | 2026-03-19 | Software Quality Metrics | Abel Soares Siqueira | [link][rec1] |
-| 2026-04-16 | Continuous Localization with Weblate in the Dynamic3D project | Carsten Schnober |  |
+| 2026-04-16 | [Continuous Localization with Weblate in the Dynamic3D
+project](weblate/weblate-presentation.html) | Carsten Schnober | [link][rec2] |
 | 2026-05-14 |       |           |  |
 | 2026-06-11 |       |           |  |
 | 2026-09-03 |       |           |  |
@@ -24,7 +25,8 @@ Here's our schedule:
 | 2026-10-29 |       |           |  |
 | 2026-11-26 |       |           |  |
 
-[rec1]: https://nlesc.sharepoint.com/:v:/s/softwaresustainability/IQDLLQr9HnV5RYdaXlsuDjxTAUJgyXctbhoh50bEZd8R0cM?e=D7iTDc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[rec1]: https://nlesc.sharepoint.com/:v:/s/softwaresustainability/IQDLLQr9HnV5RYdaXlsuDjxTAUJgyXctbhoh50bEZd8R0cM?e=mmAk3X
+[rec2]: https://nlesc.sharepoint.com/:v:/s/softwaresustainability/IQAOY55IUN0vQYRmrqBu4Ax1ARQRYbzt385ixiAAXibiJ_4?e=67hBd8
 
 ## Presenting
 
