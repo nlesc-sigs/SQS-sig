@@ -17,7 +17,7 @@ Here's our schedule:
 | ----------:|:----- |:--------- | -- |
 | 2026-03-19 | Software Quality Metrics | Abel Soares Siqueira | [link][rec1] |
 | 2026-04-16 | [Continuous Localization with Weblate in the Dynamic3D project](weblate/weblate-presentation.html) | Carsten Schnober | [link][rec2] |
-| 2026-05-14 |       |           |  |
+| 2026-05-14 | No SIG due to public holiday | - | - |
 | 2026-06-11 | Software quality score cards in and beyond [OSS](https://www.esciencecenter.nl/calls-for-proposals/call-for-open-and-sustainable-research-software-oss-2026/)| Peter, Jason, Elena |  |
 | 2026-09-03 |       |           |  |
 | 2026-10-01 |       |           |  |
