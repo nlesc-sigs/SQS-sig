@@ -3,6 +3,8 @@
 This SIG focus on our [Software Quality & Sustainability expertise](https://www.esciencecenter.nl/where-we-focus/software-quality/).
 In short, this means tools and practices that help our code be more easily maintained and more robust.
 
+The previous SIGs are described in the [log](log.md).
+
 ## Agenda
 
 We will try to follow the following agenda:
