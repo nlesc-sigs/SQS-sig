@@ -21,13 +21,15 @@ Here's our schedule:
 | 2026-04-16 | [Continuous Localization with Weblate in the Dynamic3D project](weblate/weblate-presentation.html) | Carsten Schnober | [link][rec2] |
 | 2026-05-14 | No SIG due to public holiday | - | - |
 | 2026-06-11 | Software quality score cards in and beyond [OSS](https://www.esciencecenter.nl/calls-for-proposals/call-for-open-and-sustainable-research-software-oss-2026/)| Peter, Jason, Elena |  |
-| 2026-09-03 |       |           |  |
-| 2026-10-01 |       |           |  |
+| 2026-09-03 | Secure Software Development Life Cycle Policy | Johan Ruiter | [link][rec3] |
+| 2026-10-01 | EVERSE, AI Declaration and AI Coding Agent Skills | Faruk Diblen | [link][rec4] |
 | 2026-10-29 |       |           |  |
-| 2026-11-26 |       |           |  |
+| 2026-11-26 | Modeling and visualizing software architecture: hands-on with Structurizr | Flavio, Jaro, Robin |  |
 
 [rec1]: https://nlesc.sharepoint.com/:v:/s/softwaresustainability/IQDLLQr9HnV5RYdaXlsuDjxTAUJgyXctbhoh50bEZd8R0cM?e=mmAk3X
 [rec2]: https://nlesc.sharepoint.com/:v:/s/softwaresustainability/IQAOY55IUN0vQYRmrqBu4Ax1ARQRYbzt385ixiAAXibiJ_4?e=67hBd8
+[rec3]: https://nlesc.sharepoint.com/:v:/s/softwaresustainability/IQB2o9Rr4I3mRI3_6bgF-ZDDARCbLZl-NAIYCbPQDWASYN8?e=9jgzNw
+[rec4]: https://nlesc.sharepoint.com/:v:/s/softwaresustainability/IQCjV6jblv4aQod2PR-KekxlAXEiPvG8TGmc_0pH4DxIAgc?e=zT5sfi
 
 ## Presenting
 
