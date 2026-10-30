@@ -23,13 +23,14 @@ Here's our schedule:
 | 2026-06-11 | Software quality score cards in and beyond [OSS](https://www.esciencecenter.nl/calls-for-proposals/call-for-open-and-sustainable-research-software-oss-2026/)| Peter, Jason, Elena |  |
 | 2026-09-03 | Secure Software Development Life Cycle Policy | Johan Ruiter | [link][rec3] |
 | 2026-10-01 | EVERSE, AI Declaration and AI Coding Agent Skills | Faruk Diblen | [link][rec4] |
-| 2026-10-29 |       |           |  |
+| 2026-10-29 | What's new in Programming Languages     | Johan Hidding          | [link][rec5]  |
 | 2026-11-26 | Modeling and visualizing software architecture: hands-on with Structurizr | Flavio, Jaro, Robin |  |
 
 [rec1]: https://nlesc.sharepoint.com/:v:/s/softwaresustainability/IQDLLQr9HnV5RYdaXlsuDjxTAUJgyXctbhoh50bEZd8R0cM?e=mmAk3X
 [rec2]: https://nlesc.sharepoint.com/:v:/s/softwaresustainability/IQAOY55IUN0vQYRmrqBu4Ax1ARQRYbzt385ixiAAXibiJ_4?e=67hBd8
 [rec3]: https://nlesc.sharepoint.com/:v:/s/softwaresustainability/IQB2o9Rr4I3mRI3_6bgF-ZDDARCbLZl-NAIYCbPQDWASYN8?e=9jgzNw
 [rec4]: https://nlesc.sharepoint.com/:v:/s/softwaresustainability/IQCjV6jblv4aQod2PR-KekxlAXEiPvG8TGmc_0pH4DxIAgc?e=zT5sfi
+[rec5]: https://nlesc.sharepoint.com/:v:/r/sites/softwaresustainability/_layouts/15/stream.aspx?id=%2Fsites%2Fsoftwaresustainability%2FShared%20Documents%2FRecordings%2FSIG%20Software%20Quality%20_%20Sustainability%20(SQ_S)-20261029_140219-Meeting%20Recording.mp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&share=cQrp54iVBrqBTZLiWY4mhQCgEgUCfXkqi6RybislMXkCW4EWIA
 
 ## Presenting
 
